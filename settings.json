@@ -1,0 +1,71 @@
+{
+  "workbench.colorTheme": "Default Light Modern",
+  "security.workspace.trust.enabled": false,
+  "editor.guides.bracketPairs": true,
+  "files.autoSave": "onFocusChange",
+  "editor.largeFileOptimizations": false,
+  "cmake.configureOnOpen": false,
+  "workbench.editorAssociations": {
+    "*.svg": "svgPreviewer.customEditor"
+  },
+  "markdown.extension.preview.autoShowPreviewToSide": true,
+  "svg.preview.transparencyGrid": false,
+  "svg.preview.boundingBox": true,
+  "github.copilot.advanced": {
+    "debug.showScores": true,
+    "debug.overrideChatEngine": "gpt-4"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "code-runner.runInTerminal": true,
+  "code-runner.ignoreSelection": true,
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.temporaryFileName": "coderunner_selectedpart_temp",
+  "git.enableSmartCommit": true,
+  "Codegeex.Privacy": true,
+  "git.confirmSync": false,
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+  "git.openRepositoryInParentFolders": "always",
+  "editor.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "workbench.list.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "animations.Install-Method": "Apc Customize UI++",
+  "animations.CursorAnimation": true,
+  "animations.Tabs": "Slide",
+  "animations.CursorAnimationOptions": {
+    "Color": "#00000050",
+    "CursorStyle": "line",
+    "TrailLength": 4
+  },
+  "animations.Durations": {
+    "Command-Palette": 100,
+    "Tabs": 100,
+    "Active": 100,
+    "Scrolling": 100,
+    "Smooth-Mode": 100,
+    "Focus-Dimming": 100
+  },
+  "animations.Custom-CSS": false,
+  "animations.Active": "None",
+  "animations.Scrolling": "Slide",
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "animations.Smooth-Mode": false,
+  "editor.fontLigatures": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.fontFamily": "JetBrains Mono, 'Maple Mono SC NF' ,Consolas, 'Courier New', monospace"
+}
